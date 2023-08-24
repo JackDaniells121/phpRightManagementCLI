@@ -4,6 +4,7 @@ Application was written to present coding skills, is written in php 8.0 and requ
 
 App checks if there is access to function by specified user.
 
+App specification summary:
 Users can be grouped in groups.
 Functions can be grouped in groups called modules.
 Right can be granted to whole module that means all functions connected with module.
@@ -24,5 +25,12 @@ Right can be granted to one function
 5. enter function name
 6. result will be displayed
 
-This how it looks like on running app:
+### Missing features :warning:
+Cli app should be able:
+- [ ] add new users, functions, modules, groups
+- [ ] grant rights to users, functions, modules, groups
+
+### Screenshots :camera:
+
+This how it looks like running in terminal app:
 ![](cli-app-screen1.png)
