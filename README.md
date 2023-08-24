@@ -25,7 +25,7 @@ Right can be granted to one function
 5. enter function name
 6. result will be displayed
 
-### Missing features :warning:
+### Missing features (not in specification) :warning:
 Cli app should be able:
 - [ ] add new users, functions, modules, groups
 - [ ] grant rights to users, functions, modules, groups
