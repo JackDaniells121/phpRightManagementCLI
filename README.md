@@ -14,7 +14,7 @@ Right can be granted to one function
 1. Install php 8.0
 2. Install mysql
 3. Create database and user
-4. Import database from file `database.sql`
+4. Import database from file `db_dump.sql` (testing data included)
 5. Edit file `src/.env` and set database credentials
 
 ### How to run cli app :golfing: 
