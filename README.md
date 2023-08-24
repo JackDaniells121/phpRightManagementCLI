@@ -5,10 +5,10 @@ Application was written to present coding skills, is written in php 8.0 and requ
 App checks if there is access to function by specified user.
 
 App specification summary:
-Users can be grouped in groups.
-Functions can be grouped in groups called modules.
-Right can be granted to whole module that means all functions connected with module.
-Right can be granted to one function
+- Users can be grouped in groups.
+- Functions can be grouped in groups called modules. 
+- Right can be granted to whole module that means all functions connected with module. 
+- Right can be granted to one function
 
 ### Setup :coffee:
 1. Install php 8.0
